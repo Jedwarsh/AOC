@@ -10,7 +10,7 @@ cubes = {"red": "0",
 
 """
 Compare the set of cubes to fewest possible set of cubes and make changes if needed
-Return: True or False based on if the set is possible or not
+Return: None
 """
 
 
