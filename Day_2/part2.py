@@ -9,8 +9,8 @@ cubes = {"red": "0",
          "blue": "0"}
 
 """
-Calculate the power of the set of cubes
-Return: None
+Compare the set of cubes to fewest possible set of cubes and make changes if needed
+Return: True or False based on if the set is possible or not
 """
 
 
