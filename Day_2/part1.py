@@ -1,6 +1,8 @@
+# Read lines from file
 file1 = open('input.txt', 'r')
 lines = file1.readlines()
 
+# Initialize required variables
 counter = 0
 draws = []
 cubes = {"red": "12",
