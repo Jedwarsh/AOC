@@ -42,6 +42,7 @@ def split_game(string):
     numbers_second_half = find_numbers(string[1])
     return [id, numbers_first_half, numbers_second_half]
 
+
 # Initialize required variables
 games = read("input.txt")
 game_id = 0
