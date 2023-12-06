@@ -29,7 +29,7 @@ def find_numbers(string):
 
 
 # Initialize required variables
-lines = read("myfile.txt")
+lines = read("input.txt")
 time = find_numbers(lines[0])
 result = 1
 distance = find_numbers(lines[1])
