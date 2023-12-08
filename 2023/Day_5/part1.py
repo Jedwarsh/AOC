@@ -1,6 +1,7 @@
 # Importing needed modules
 import re
 
+
 """
 Read every line from file.
 Return: Array containing all the lines from the file.
